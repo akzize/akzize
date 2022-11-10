@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there 👋 ,I'm zakaria akziz
 
 <!--
 **zakariae111/zakariae111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h1 align="center">Hi <img src="./assets/hi.gif" width="30px">, I'm zakaria akziz</h1>
+<h1 align="center">Hi <img src="./assets/hi.gif" width="30px">,</h1>
 <h3 align="center">A future fullstack developer from Morocco 🚀</h3>
 <br>
 
