@@ -3,20 +3,20 @@
 <!--
 **zakariae111/zakariae111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h1 align="center">Hi <img src="./assets/hi.gif" width="30px">, I'm Melvin Aguilar</h1>
-<h3 align="center">A future frontend developer from El Salvador 🚀</h3>
+<h1 align="center">Hi <img src="./assets/hi.gif" width="30px">, I'm zakaria akziz</h1>
+<h3 align="center">A future fullstack developer from Morocco 🚀</h3>
 <br>
 
 <p align="center">
-I'm a 2nd-year student at José Simeón Cañas Central American University. My favorite things include learning about technology 💻, playing video games 🎮, and eating pizza 🍕. I look forward to learning new skills and adding them to my list.  
+...
 </p>
 <hr>
 
 <br>
 <!---
-- Web illustrations by Storyset ( https://storyset.com/web )
+- Web illustrations by Storyset ( https://storyset.com/illustration/programming/pana )
 --->
-<img align="right" alt="GIF" src="./assets/Programming.gif" width="360px"/>
+<img align="right" alt="SVG" src="./assets/Programming-pana.svg" width="360px"/>
 
 <br>
 
