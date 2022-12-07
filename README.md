@@ -28,6 +28,7 @@
 - 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/zakariae111)!.
 
 - 📫 How to reach me: **akziz2zakaria@gmail.com**.
+- <a href="akziz2zakaria@gmail.com" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png)" alt="email" width="40" height="40" /> </a>
 
 - 💬 Ask me about **HTML and CSS**.
 
