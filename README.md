@@ -27,7 +27,7 @@
 
 - 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/zakariae111)!.
 
-- 📫 How to reach me: **akziz2zakaria@gmail.com**.
+- 📫 How to reach me: **<a href="mailto:akziz2zakaria@gmail.com">zakaria</a>**.
 
 - 💬 Ask me about **HTML and CSS**.
 
