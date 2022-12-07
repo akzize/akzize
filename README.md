@@ -54,6 +54,12 @@
 <!---*** CSS3 ***---><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
 
 <!---*** BOOTSTRAP ***---><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
+  
+<!---*** Js ***---><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  
+<!---*** Python ***---><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  
+<!---*** Sass ***---><a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 
 <br>
 
@@ -67,11 +73,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakariae111&show_icons=true&locale=en&layout=compact&theme=radical" alt="zakaria" /></p>
 
-MelvinAguilar/MelvinAguilar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 
 - 👨‍💻 You can also check out my portfolio at [https://zakariae111.github.io/](https://zakariae111.github.io/)
 - 💬 Ask me about **Html**
 
 <a href="https://auth.geeksforgeeks.org/user/#" target="blank"><img align="center" src="" alt="melvinaguilar" height="30" width="40" /></a>
 --->
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakariae111&show_icons=true&locale=en&layout=compact" alt="zakariae111" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakariae111&show_icons=true&locale=en" alt="zakariae111" /></p>
