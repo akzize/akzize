@@ -1,4 +1,3 @@
-### Hi there 👋 ,I'm zakaria akziz
 
 <!--
 **zakariae111/zakariae111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +15,7 @@
 <!---
 - Web illustrations by Storyset ( https://storyset.com/illustration/programming/pana )
 --->
-<img alt="SVG" src="./assets/Programming-pana.svg"/>
+<img alt="PNG" src="./assets/wepik-export-2023082322q5246QIU4.png"/>
 
 <br>
 
