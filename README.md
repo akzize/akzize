@@ -60,11 +60,8 @@ Let's collaborate and create something amazing together! 🚀🔥
 
 </p>
 
-<p align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakariae111&show_icons=true&locale=en&layout=compact" alt="zakariae111" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakariae111&show_icons=true&locale=en&layout=compact" alt="zakariae111" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakariae111&show_icons=true&locale=en" alt="zakariae111" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakariae111&show_icons=true&locale=en" alt="zakariae111" /></p>
-</p>
 <!---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakariae111&show_icons=true&locale=en&layout=compact&theme=radical" alt="zakaria" /></p>
