@@ -60,7 +60,7 @@ Let's collaborate and create something amazing together! 🚀🔥
 
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakariae111&show_icons=true&locale=en&layout=compact" alt="zakariae111" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakariae111&show_icons=true&locale=en" alt="zakariae111" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakariae111&show_icons=true&locale=en&layout=compact" alt="zakariae111" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=zakariae111&show_icons=true&locale=en" alt="zakariae111" /></p>
 
 <!---
 
