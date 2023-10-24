@@ -1,6 +1,6 @@
 
 <!--
-**zakariae111/zakariae111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**akzize/akzize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi <img src="./assets/hi.gif" width="30px">,</h1>
 <h3 align="center">A future fullstack developer from Morocco 🚀</h3>
@@ -60,18 +60,18 @@ Let's collaborate and create something amazing together! 🚀🔥
 
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakariae111&show_icons=true&locale=en&layout=compact" alt="zakariae111" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akzize&show_icons=true&locale=en&layout=compact" alt="akzize" /></p>
 
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zakariae111&show_icons=true&locale=en" alt="zakariae111" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akzize&show_icons=true&locale=en" alt="akzize" /></p>
 
 <!---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakariae111&show_icons=true&locale=en&layout=compact&theme=radical" alt="zakaria" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akzize&show_icons=true&locale=en&layout=compact&theme=radical" alt="zakaria" /></p>
 
 
-- 👨‍💻 You can also check out my portfolio at [https://zakariae111.github.io/](https://zakariae111.github.io/)
+- 👨‍💻 You can also check out my portfolio at [https://akzize.github.io/](https://akzize.github.io/)
 - 💬 Ask me about **Html**
 inspired from melvinaguilar
 
