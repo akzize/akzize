@@ -19,7 +19,7 @@
 
 <br>
 
-👋 Hey there, I'm ZAKARIA AKZIZ – a passionate Full Stack Developer on a mission to bring digital ideas to life. <br>
+Hey there 👋,<br> I'm ZAKARIA AKZIZ – a passionate Full Stack Developer on a mission to bring digital ideas to life. <br>
 With a love for both frontend creativity and backend logic, I thrive on crafting seamless user experiences and robust systems. 
 <br>
 My GitHub is a canvas where code meets creativity, showcasing my journey in the world of tech. 
