@@ -42,8 +42,8 @@ Let's collaborate and create something amazing! 🚀🔥
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- Top Languages Widget -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akzize&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- GitHub Streak Widget -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akzize&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -52,8 +52,8 @@ Let's collaborate and create something amazing! 🚀🔥
 </p>
 
 <p align="center">
-  <!-- GitHub Streak Widget -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akzize&theme=radical" alt="GitHub Streak" />
+  <!-- Top Languages Widget -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akzize&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
