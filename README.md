@@ -69,4 +69,4 @@ Let's collaborate and create something amazing! 🚀🔥
 
 ### 🚀 My Portfolio
 
-Check out my projects and portfolio at: [https://akzize.github.io/](https://akziz.me)
+Check out my projects and portfolio at: [https://akziz.me/](https://akziz.me)
