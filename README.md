@@ -15,7 +15,7 @@ Hey there! I'm **Zakaria Akziz**, a passionate Full Stack Developer who loves tu
 - 🔭 I’m currently working on personal projects that blend creativity and functionality.
 - 🌱 I’m always exploring new technologies and frameworks to stay updated.
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, Python**, or anything web-related.
-- 📫 How to reach me: [akziz2zakaria@gmail.com](mailto:akziz2zakaria@gmail.com).
+- 📫 How to reach me: [mr.zakaria.akziz@gmail.com](mailto:mr.zakaria.akziz@gmail.com).
 
 Let's collaborate and create something amazing! 🚀🔥
 
