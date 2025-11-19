@@ -69,5 +69,5 @@ Let's collaborate and create something amazing! 🚀🔥
 
 ### 🚀 My Portfolio
 
-Check out my projects and portfolio at: [https://akziz.me/](https://akziz.me)
+Check out my projects and portfolio at: [https://akziz.me/](https://akziz.me)                                                
 <a href="https://github.com/laravel/framework/actions"><img src="https://komarev.com/ghpvc/?username=akzize" alt="Build Status"></a>
