@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there! <img src="./assets/hi.gif" width="30px"> Welcome to My GitHub! </h1>
-<h3 align="center">I'm Zakaria Akziz, a Full Stack Developer from Morocco 🚀</h3> ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=akzize)
+<h3 align="center">I'm Zakaria Akziz, a Full Stack Developer from Morocco 🚀</h3> <a href="https://github.com/laravel/framework/actions"><img src="https://komarev.com/ghpvc/?username=akzize" alt="Build Status"></a>
 
 <p align="center">
   <img src="./assets/wepik-export-2023082322q5246QIU4.png" alt="Profile Banner"/>
