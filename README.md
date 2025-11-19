@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there! <img src="./assets/hi.gif" width="30px"> Welcome to My GitHub! </h1>
-<h3 align="center">I'm Zakaria Akziz, a Full Stack Developer from Morocco 🚀</h3> <a href="https://github.com/laravel/framework/actions"><img src="https://komarev.com/ghpvc/?username=akzize" alt="Build Status"></a>
+<h3 align="center">I'm Zakaria Akziz, a Full Stack Developer from Morocco 🚀</h3> 
 
 <p align="center">
   <img src="./assets/wepik-export-2023082322q5246QIU4.png" alt="Profile Banner"/>
@@ -70,3 +70,4 @@ Let's collaborate and create something amazing! 🚀🔥
 ### 🚀 My Portfolio
 
 Check out my projects and portfolio at: [https://akziz.me/](https://akziz.me)
+<a href="https://github.com/laravel/framework/actions"><img src="https://komarev.com/ghpvc/?username=akzize" alt="Build Status"></a>
