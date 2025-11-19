@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there! <img src="./assets/hi.gif" width="30px"> Welcome to My GitHub! </h1>
-<h3 align="center">I'm Zakaria Akziz, a Full Stack Developer from Morocco 🚀</h3>
+<h3 align="center">I'm Zakaria Akziz, a Full Stack Developer from Morocco 🚀</h3> ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=akzize)
 
 <p align="center">
   <img src="./assets/wepik-export-2023082322q5246QIU4.png" alt="Profile Banner"/>
@@ -8,7 +8,7 @@
 
 ---
 
-### 👋 About Me
+### 👋 About Me 
 
 Hey there! I'm **Zakaria Akziz**, a passionate Full Stack Developer who loves turning digital ideas into reality. With a knack for frontend design and backend logic, I strive to create seamless, user-friendly, and innovative web applications. 
 
